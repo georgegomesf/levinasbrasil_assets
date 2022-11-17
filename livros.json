@@ -1,4 +1,4 @@
 { "data": [
-    { "id": 1, "autor": "Emmanuel Levinas", "titulo": "Totalidade e Infinito", "subtitulo": "Ensaio sobre a exterioridade", "editora": "Edições 70", "primeira_pub": 1961, "ano_edicao": 2008, "paginas": 312 },
+    { "id": 1, "autor": "Emmanuel Levinas", "titulo": "Totalidade e Infinito", "subtitulo": "Ensaio sobre a exterioridade", "editora": "Edições 70", "primeira_pub": 1961, "ano_edicao": 2008, "paginas": 312, "capa": "https://m.media-amazon.com/images/I/41GeM5bEvlL._SX320_BO1,204,203,200_.jpg" },
     { "id": 2, "autor": "Emmanuel Levinas", "titulo": "De outro modo que ser ou mais além da essência", "subtitulo": null, "editora": "Edições 70", "primeira_pub": 1961, "ano_edicao": 2008, "paginas": 312 }
 ]}
