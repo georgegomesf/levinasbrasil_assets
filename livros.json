@@ -4,7 +4,7 @@
 
     { "id": 5, "autor": "Emmanuel Levinas", "titulo": "Da existência ao existente", "subtitulo": null, "editora": "Papirus", "primeira_pub": 1947, "ano_edicao": 1998, "paginas": 240, "capa": "https://raw.githubusercontent.com/georgegomesf/levinasbrasil_assets/main/capas/levinas_da_existencia_ao_existente.jpg", "idioma": "por" },
 
-    { "id": 5, "autor": "Emmanuel Levinas", "titulo": "Le temps et l'autre", "subtitulo": null, "editora": "PUF", "primeira_pub": 1948, "ano_edicao": 2014, "paginas": 108, "capa": "https://raw.githubusercontent.com/georgegomesf/levinasbrasil_assets/main/capas/levinas_de_l_evasion.jpg", "idioma": "fra" },    
+    { "id": 5, "autor": "Emmanuel Levinas", "titulo": "Le temps et l'autre", "subtitulo": null, "editora": "PUF", "primeira_pub": 1948, "ano_edicao": 2014, "paginas": 108, "capa": "https://raw.githubusercontent.com/georgegomesf/levinasbrasil_assets/main/capas/levinas_le_temps_et_l_autre.jpg", "idioma": "fra" },    
 
     { "id": 5, "autor": "Emmanuel Levinas", "titulo": "Descobrindo a existência com Husserl e Heidegger", "subtitulo": null, "editora": "Instituto Piaget", "primeira_pub": 1949, "ano_edicao": 1997, "paginas": 290, "capa": "https://raw.githubusercontent.com/georgegomesf/levinasbrasil_assets/main/capas/levinas_descobrindo_a_existencia.jpg", "idioma": "por" },
     { "id": 1, "autor": "Emmanuel Levinas", "titulo": "Totalidade e Infinito", "subtitulo": "Ensaio sobre a exterioridade", "editora": "Edições 70", "primeira_pub": 1961, "ano_edicao": 2008, "paginas": 312, "capa": "https://raw.githubusercontent.com/georgegomesf/levinasbrasil_assets/main/capas/levinas_totalidade_e_infinito.jpg", "idioma": "por" },
