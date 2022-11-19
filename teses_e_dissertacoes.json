@@ -1,7 +1,7 @@
 { "data": [
     {
       "id": 1,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "5308309531051845",
       "autor": "André Brayner de Farias",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=21",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "0405068133482644",
       "autor": "José André da Costa",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=3650",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "6087172432677097",
       "autor": "José Tadeu Batista de Souza",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=1050",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "5771419474096208",
       "autor": "Luciano Assis Mattuella",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=4367",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "9050952858601077",
       "autor": "Luciano Costa Santos",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=1002",
@@ -51,7 +51,7 @@
     },
     {
       "id": 6,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "9122974069151383",
       "autor": "Luís Carlos Dalla Rosa",
       "arquivo": "http://tede.est.edu.br/tede/tde_busca/arquivo.php?codArquivo=264",
@@ -61,7 +61,7 @@
     },
     {
       "id": 7,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "0000000000000000",
       "autor": "Martina Kolrec",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=22",
@@ -71,7 +71,7 @@
     },
     {
       "id": 8,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "1800409039898593",
       "autor": "Paulo Sérgio de Jesus Costa",
       "arquivo": "http://www.dominiopublico.gov.br/download/texto/cp090132.pdf",
@@ -81,7 +81,7 @@
     },
     {
       "id": 9,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "6484943095710587",
       "autor": "Sandro Cozza Sayão",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=202",
@@ -91,7 +91,7 @@
     },
     {
       "id": 10,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "7554761544202699",
       "autor": "Camila Pacheco Gomes.",
       "arquivo": "https://tede.unioeste.br/bitstream/tede/4916/2/Camila_Gomes_2020.pdf",
@@ -101,7 +101,7 @@
     },
     {
       "id": 11,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "1680839608194425",
       "autor": "Demetrius Oliveira Tahim",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=1593",
@@ -111,7 +111,7 @@
     },
     {
       "id": 12,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "6448970021699119",
       "autor": "Diogo Villas Bôas Aguiar",
       "arquivo": "https://cebelonline.files.wordpress.com/2013/10/digitalo-paradoxo-levinasiano-de-uma-liberdade-heteronc3b4mica.pdf",
@@ -121,7 +121,7 @@
     },
     {
       "id": 13,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8526574577620880",
       "autor": "Eneida Cardoso Braga",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=908",
@@ -131,7 +131,7 @@
     },
     {
       "id": 14,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "5050929053015932",
       "autor": "Gustavo Rubin da Mota",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=5105",
@@ -141,7 +141,7 @@
     },
     {
       "id": 15,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0757495481880769",
       "autor": "Honatan Fajardo Cabrera",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=4694",
@@ -151,7 +151,7 @@
     },
     {
       "id": 16,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "2740874617466468",
       "autor": "Klinger Scoralick",
       "arquivo": "http://www.dominiopublico.gov.br/download/texto/cp019230.pdf",
@@ -161,7 +161,7 @@
     },
     {
       "id": 17,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "3345911212571602",
       "autor": "Luciane Martins Ribeiro",
       "arquivo": "http://www.faculdadejesuita.edu.br/documentos/011111-Luciane%20Martins%20Ribeiro.pdf",
@@ -171,7 +171,7 @@
     },
     {
       "id": 18,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "5771419474096208",
       "autor": "Luciano Assis Mattuella",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=1717",
@@ -181,7 +181,7 @@
     },
     {
       "id": 19,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8526509627790398",
       "autor": "Marcelo Bastiani",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=1795",
@@ -191,7 +191,7 @@
     },
     {
       "id": 20,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "9330106912652229",
       "autor": "Mauro César de Castro",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=372",
@@ -201,7 +201,7 @@
     },
     {
       "id": 21,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0000000000000000",
       "autor": "Paulo Ricardo Cerveira Cardoso",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=1796",
@@ -211,7 +211,7 @@
     },
     {
       "id": 22,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "5358199628759106",
       "autor": "Romulo Alessandro Ribeiro.",
       "arquivo": "https://repositorio.unifesp.br/bitstream/handle/11600/62495/Filosofia%20e%20Juda%c3%adsmo%20em%20Levinas_dep%c3%b3sito%20final.pdf?sequence=1&amp;isAllowed=y",
@@ -221,7 +221,7 @@
     },
     {
       "id": 23,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0677364120157768",
       "autor": "Rubens Machado",
       "arquivo": "http://w3.ufsm.br/ppgf/wp-content/uploads/2011/10/Rubens-Machado.pdf",
@@ -231,7 +231,7 @@
     },
     {
       "id": 24,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "9842402863529536",
       "autor": "Tiago dos Santos Rodrigues.",
       "arquivo": "https://tede2.pucrs.br/tede2/bitstream/tede/7570/2/DIS_TIAGO_DOS_SANTOS_RODRIGUES_COMPLETO.pdf",
@@ -241,7 +241,7 @@
     },
     {
       "id": 25,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "4547029422865527",
       "autor": "Tiegüe Vieira Rodrigues",
       "arquivo": "http://tede.pucrs.br/tde_busca/arquivo.php?codArquivo=906",
@@ -251,7 +251,7 @@
     },
     {
       "id": 26,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "4804142302622118",
       "autor": "Ubiratane de Morais Rodrigues",
       "arquivo": "http://www.dominiopublico.gov.br/download/texto/cp091168.pdf",
@@ -261,7 +261,7 @@
     },
     {
       "id": 27,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "9015460917333717",
       "autor": "Edson Carvalho Guedes",
       "arquivo": "",
@@ -271,7 +271,7 @@
     },
     {
       "id": 28,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "8249925720270256",
       "autor": "Evaldo Antônio Kuiava",
       "arquivo": "",
@@ -281,7 +281,7 @@
     },
     {
       "id": 29,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "6441782215828086",
       "autor": "Leonardo Goulart Pimenta",
       "arquivo": "",
@@ -291,7 +291,7 @@
     },
     {
       "id": 30,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "9491379022053570",
       "autor": "Magali Mendes de Menezes",
       "arquivo": "",
@@ -301,7 +301,7 @@
     },
     {
       "id": 31,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "9122803302644811",
       "autor": "Marcelo Fabri",
       "arquivo": "",
@@ -311,7 +311,7 @@
     },
     {
       "id": 32,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "8289371491303781",
       "autor": "Marcelo Pelizzoli",
       "arquivo": "",
@@ -321,7 +321,7 @@
     },
     {
       "id": 33,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "1846296125125082",
       "autor": "Marcos Alexandre Alves",
       "arquivo": "",
@@ -331,7 +331,7 @@
     },
     {
       "id": 34,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "5331482430967283",
       "autor": "Maria Joaquina Fernandes Pinto",
       "arquivo": "",
@@ -341,7 +341,7 @@
     },
     {
       "id": 35,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "0263427602095239",
       "autor": "Nélio Vieira de Melo",
       "arquivo": "",
@@ -351,7 +351,7 @@
     },
     {
       "id": 36,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "8047378549590212",
       "autor": "Nilo Ribeiro Júnior",
       "arquivo": "",
@@ -361,7 +361,7 @@
     },
     {
       "id": 37,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "3736847157377437",
       "autor": "Ozanan Vicente Carrara",
       "arquivo": "",
@@ -371,7 +371,7 @@
     },
     {
       "id": 38,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "0000000000000000",
       "autor": "René Bucks",
       "arquivo": "",
@@ -381,7 +381,7 @@
     },
     {
       "id": 39,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "2090074284319407",
       "autor": "Thereza Cristina L. V. Alves da Cunha",
       "arquivo": "",
@@ -391,7 +391,7 @@
     },
     {
       "id": 40,
-      "tipotese": "Tese",
+      "tipo": "Tese",
       "lattes_id": "0437585440783626",
       "autor": "Vanderlei Carbonara",
       "arquivo": "",
@@ -401,7 +401,7 @@
     },
     {
       "id": 41,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "6049973447435340",
       "autor": "Adilar Mistura",
       "arquivo": "",
@@ -411,7 +411,7 @@
     },
     {
       "id": 42,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "6172334598280215",
       "autor": "Ângela Miguelis",
       "arquivo": "",
@@ -421,7 +421,7 @@
     },
     {
       "id": 43,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8517030695951234",
       "autor": "Antônio Chaves de Santana",
       "arquivo": "",
@@ -431,7 +431,7 @@
     },
     {
       "id": 44,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8960935256383609",
       "autor": "Ben-Hesed dos Santos",
       "arquivo": "",
@@ -441,7 +441,7 @@
     },
     {
       "id": 45,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "2383726100696991",
       "autor": "Carla Jeane Helfemsteller Coelho Dornelles",
       "arquivo": "",
@@ -451,7 +451,7 @@
     },
     {
       "id": 46,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "1365216150141758",
       "autor": "Cleonei Antônio Cenci",
       "arquivo": "",
@@ -461,7 +461,7 @@
     },
     {
       "id": 47,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "9366612044558049",
       "autor": "Cristiano Cerezer",
       "arquivo": "",
@@ -471,7 +471,7 @@
     },
     {
       "id": 48,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "1044445153435698",
       "autor": "Damiane Rita Maria Gomes",
       "arquivo": "",
@@ -481,7 +481,7 @@
     },
     {
       "id": 49,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "1243908839023170",
       "autor": "Deodato Ferreira da Costa",
       "arquivo": "",
@@ -491,7 +491,7 @@
     },
     {
       "id": 50,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "9015460917333717",
       "autor": "Edson Carvalho Guedes",
       "arquivo": "",
@@ -501,7 +501,7 @@
     },
     {
       "id": 51,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0279973529418879",
       "autor": "Edson Schirmer",
       "arquivo": "",
@@ -511,7 +511,7 @@
     },
     {
       "id": 52,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8249925720270256",
       "autor": "Evaldo Antônio Kuiava",
       "arquivo": "",
@@ -521,7 +521,7 @@
     },
     {
       "id": 53,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "6605808187987760",
       "autor": "Giovana Dalmás",
       "arquivo": "",
@@ -531,7 +531,7 @@
     },
     {
       "id": 54,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0000000000000000",
       "autor": "Jane Roldan Pinto de Lima",
       "arquivo": "",
@@ -541,7 +541,7 @@
     },
     {
       "id": 55,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8583907984500271",
       "autor": "José Aparecido Pereira",
       "arquivo": "",
@@ -551,7 +551,7 @@
     },
     {
       "id": 56,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0386322919088410",
       "autor": "José Jorge Guedes de Camargo",
       "arquivo": "",
@@ -561,7 +561,7 @@
     },
     {
       "id": 57,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0374960875663217",
       "autor": "Josirene Cândido Londero",
       "arquivo": "",
@@ -571,7 +571,7 @@
     },
     {
       "id": 58,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0000000000000000",
       "autor": "Juan Luis Novoa Esparza",
       "arquivo": "",
@@ -581,7 +581,7 @@
     },
     {
       "id": 59,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "6441782215828086",
       "autor": "Leonardo Goulart Pimenta",
       "arquivo": "",
@@ -591,7 +591,7 @@
     },
     {
       "id": 60,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8643208835098765",
       "autor": "Luís Alles",
       "arquivo": "",
@@ -601,7 +601,7 @@
     },
     {
       "id": 61,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0000000000000000",
       "autor": "Luiz Pedro Wagner",
       "arquivo": "",
@@ -611,7 +611,7 @@
     },
     {
       "id": 62,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "9491379022053570",
       "autor": "Magali Mendes de Menezes",
       "arquivo": "",
@@ -621,7 +621,7 @@
     },
     {
       "id": 63,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8289371491303781",
       "autor": "Marcelo Luiz Pelizzoli",
       "arquivo": "",
@@ -631,7 +631,7 @@
     },
     {
       "id": 64,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "1535131304222954",
       "autor": "Marcelo Sales",
       "arquivo": "",
@@ -641,7 +641,7 @@
     },
     {
       "id": 65,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "1846296125125082",
       "autor": "Marcos Alexandre Alves",
       "arquivo": "",
@@ -651,7 +651,7 @@
     },
     {
       "id": 66,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0000000000000000",
       "autor": "Maria Lúcia Lima de Queiroz Santos",
       "arquivo": "",
@@ -661,7 +661,7 @@
     },
     {
       "id": 67,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "5611102198776677",
       "autor": "Maristela de Godoy",
       "arquivo": "",
@@ -671,7 +671,7 @@
     },
     {
       "id": 68,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0000000000000000",
       "autor": "Martina Korelc",
       "arquivo": "",
@@ -681,7 +681,7 @@
     },
     {
       "id": 69,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0000000000000000",
       "autor": "Neri José Tondello",
       "arquivo": "",
@@ -691,7 +691,7 @@
     },
     {
       "id": 70,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "6439403933078076",
       "autor": "Neusa Vendramin Volpe",
       "arquivo": "",
@@ -701,7 +701,7 @@
     },
     {
       "id": 71,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "5393663349640485",
       "autor": "Rafael Haddock Lobo",
       "arquivo": "",
@@ -711,7 +711,7 @@
     },
     {
       "id": 72,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "8855661884335978",
       "autor": "Raphael Douglas Monteiro Tenorio Filho",
       "arquivo": "",
@@ -721,7 +721,7 @@
     },
     {
       "id": 73,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "2052548816755075",
       "autor": "Ricardo Antônio Rodrigues",
       "arquivo": "",
@@ -731,7 +731,7 @@
     },
     {
       "id": 74,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "5978187611694518",
       "autor": "Ricardo Timm de Souza",
       "arquivo": "",
@@ -741,7 +741,7 @@
     },
     {
       "id": 75,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "6484943095710587",
       "autor": "Sandro C. Sayão",
       "arquivo": "",
@@ -751,7 +751,7 @@
     },
     {
       "id": 76,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "7955760976975756",
       "autor": "Sandro de Souza Ferreira",
       "arquivo": "",
@@ -761,7 +761,7 @@
     },
     {
       "id": 77,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "5483411716661661",
       "autor": "Shirley Lucindo Torres",
       "arquivo": "",
@@ -771,7 +771,7 @@
     },
     {
       "id": 78,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0437585440783626",
       "autor": "Vanderlei Carbonara",
       "arquivo": "",
@@ -781,7 +781,7 @@
     },
     {
       "id": 79,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0684001999347684",
       "autor": "Waldemir Lopes Neto",
       "arquivo": "",
@@ -791,7 +791,7 @@
     },
     {
       "id": 80,
-      "tipotese": "Dissertação",
+      "tipo": "Dissertação",
       "lattes_id": "0341287858416922",
       "autor": "Wender José da Silva",
       "arquivo": "",
