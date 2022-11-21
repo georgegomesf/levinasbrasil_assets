@@ -419,6 +419,36 @@
     "idioma": "fra",
     "url": "https://www.jstor.org/stable/40885668",
     "acesso": "Jstor"
+  },
+  {
+    "id": 29,
+    "titulo": "Violence et Métaphysique: Essai sur la pensée d'Emmanuel Levinas",
+    "autor": "Jacques Derrida",
+    "parte_de": "Revue de Métaphysique et de Morale",
+    "volume": 44,
+    "numero": "3",
+    "paginacao": "pp. 322-354",
+    "editora": "Presses Universitaires de France",
+    "ano_publicacao": 1964,
+    "data_publicacao": "1964-07-01",
+    "idioma": "fra",
+    "url": "https://www.jstor.org/stable/40900827",
+    "acesso": "Jstor"
+  },
+  {
+    "id": 30,
+    "titulo": "Violence et Métaphysique: Essai sur la pensée d'Emmanuel Levinas (Deuxième partie)",
+    "autor": "Jacques Derrida",
+    "parte_de": "Revue de Métaphysique et de Morale",
+    "volume": 44,
+    "numero": "4",
+    "paginacao": "pp. 425-473",
+    "editora": "Presses Universitaires de France",
+    "ano_publicacao": 1964,
+    "data_publicacao": "1964-10-01",
+    "idioma": "fra",
+    "url": "https://www.jstor.org/stable/40900842",
+    "acesso": "Jstor"
   }
  ]
 }
