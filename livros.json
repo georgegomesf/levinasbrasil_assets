@@ -324,6 +324,32 @@
       "capa": "https://arquivo.levinasbrasil.com.br/livros/sebbah_levinas.jpg",
       "idioma": "por",
       "descricao": "Emmanuel Lévinas (1906-1995) impõe-se, atualmente, como um dos maiores filósofos europeus. Durante muito tempo, seu pensamento - cuja ambição de fazer repercutir, no cerne do logos, a sabedoria dos doutores do Talmude ou, melhor ainda, de reivindicar um corte radical em relação à filosofia ocidental elaborada até então, sem nada abdicar das rigorosas exigências do discurso filosófico - permaneceu pouco divulgado."
+    },
+    {
+      "id": 26,
+      "autor": "SUSIN, Luis Carlos",
+      "titulo": "O Homem Messiânico",
+      "subtitulo": "Uma introdução ao pensamento de Emmanuel Levinas",
+      "editora": "EST Edições e Vozes",
+      "primeira_pub": 1984,
+      "ano_edicao": 1984,
+      "paginas": 488,
+      "capa": "https://arquivo.levinasbrasil.com.br/livros/susin_o_homem_messianico.jpg",
+      "idioma": "por",
+      "descricao": "O homem carrega em si todas as questões, mas, carrega ele todas as respostas? Certamente não, se o homem está solitário. Aliás, no homem solitário, a própria questão fica truncada: o homem seria então um absurdo, voltado ao absurdo. Esta é uma das notas firmes de Emmanuel Levinas, o judeu peregrino nascido na Lituânia, formado na escola fenomenológica, discípulo de Husserl e de Heidegger, provado nos campos de concentração de Hitler, e despertado para suas raízes bíblicas raízes ao avesso, postas no firmamento infinito e pondo a peregrinar pelo mundo para além de todo horizonte."
+    },
+    {
+      "id": 27,
+      "autor": "COSTA, Márcio Luis",
+      "titulo": "Levinas",
+      "subtitulo": "Uma introdução",
+      "editora": "Vozes",
+      "primeira_pub": 2000,
+      "ano_edicao": 2000,
+      "paginas": 240,
+      "capa": "https://arquivo.levinasbrasil.com.br/livros/costa_levinas.jpg",
+      "idioma": "por",
+      "descricao": "Esta introdução ao pensamento de Lévinas mostra como se vai gestando este pensamento e, a partir de seu próprio conteúdo temático, estabelece a ética como sua filosofia primeira. Texto oportuno para filósofos (e estudantes) que querem voltar sua refl exão para os problemas latino-americanos."
     }
    ]
 }
