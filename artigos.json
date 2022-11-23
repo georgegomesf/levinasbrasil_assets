@@ -316,6 +316,36 @@
     "acesso": "Jstor"
   },
   {
+    "id": null,
+    "titulo": "Philosophie et positivité",
+    "autor": "LEVINAS, Emmanuel",
+    "parte_de": "Savoir, faire, espérer : Les limites de la raison",
+    "volume": null,
+    "numero": "",
+    "paginacao": "p. 193-206 ",
+    "editora": "Presses de l’Université Saint-Louis",
+    "ano_publicacao": 1976,
+    "data_publicacao": "",
+    "idioma": "fra",
+    "url": "https://books.openedition.org/pusl/9704",
+    "acesso": "OpenEditionB"
+  },
+  {
+    "id": null,
+    "titulo": "La Révélation dans la tradition juive",
+    "autor": "LEVINAS, Emmanuel",
+    "parte_de": "La Révélation",
+    "volume": null,
+    "numero": "",
+    "paginacao": "p. 55-77 ",
+    "editora": "Presses de l’Université Saint-Louis",
+    "ano_publicacao": 1977,
+    "data_publicacao": "",
+    "idioma": "fra",
+    "url": "https://books.openedition.org/pusl/9429",
+    "acesso": "OpenEditionB"
+  },
+  {
     "id": 22,
     "titulo": "Martin Buber, Gabriel Marcel et la philosophie",
     "autor": "LEVINAS, Emmanuel",
@@ -344,6 +374,21 @@
     "idioma": "fra",
     "url": "https://www.jstor.org/stable/40902417",
     "acesso": "Jstor"
+  },
+  {
+    "id": null,
+    "titulo": "À propos de Buber : quelques notes",
+    "autor": "LEVINAS, Emmanuel",
+    "parte_de": "Qu’est-ce que l’homme",
+    "volume": null,
+    "numero": "",
+    "paginacao": "p. 127-133 ",
+    "editora": "Presses de l’Université Saint-Louis",
+    "ano_publicacao": 1982,
+    "data_publicacao": "",
+    "idioma": "fra",
+    "url": "https://books.openedition.org/pusl/16192",
+    "acesso": "OpenEditionB"
   },
   {
     "id": 24,
@@ -433,7 +478,7 @@
     "data_publicacao": "2012-06-07",
     "idioma": "fra",
     "url": "https://journals.openedition.org/cpuc/786",
-    "acesso": "OpenEdition"
+    "acesso": "OpenEditionJ"
   },
   {
     "id": 30,
