@@ -316,7 +316,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": null,
+    "id": 22,
     "titulo": "Philosophie et positivité",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Savoir, faire, espérer : Les limites de la raison",
@@ -331,7 +331,7 @@
     "acesso": "OpenEditionB"
   },
   {
-    "id": null,
+    "id": 23,
     "titulo": "La Révélation dans la tradition juive",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "La Révélation",
@@ -346,7 +346,7 @@
     "acesso": "OpenEditionB"
   },
   {
-    "id": 22,
+    "id": 24,
     "titulo": "Martin Buber, Gabriel Marcel et la philosophie",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Revue Internationale de Philosophie",
@@ -361,7 +361,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": 23,
+    "id": 25,
     "titulo": "Alphonse De Waelhens",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Revue de Métaphysique et de Morale",
@@ -376,7 +376,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": null,
+    "id": 26,
     "titulo": "À propos de Buber : quelques notes",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Qu’est-ce que l’homme",
@@ -387,11 +387,11 @@
     "ano_publicacao": 1982,
     "data_publicacao": "",
     "idioma": "fra",
-    "url": "https://books.openedition.org/pusl/16192",
+    "url": "https://books.openedition.org/pusl/16303",
     "acesso": "OpenEditionB"
   },
   {
-    "id": 24,
+    "id": 27,
     "titulo": "Philosophie, justice et amour: Entretien avec Emmanuel Levinas",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "",
@@ -406,7 +406,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": 25,
+    "id": 28,
     "titulo": "De la prière sans demande: Note sur une modalité du judaïsme",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Les Études philosophiques",
@@ -421,7 +421,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": 26,
+    "id": 29,
     "titulo": "De la sensibilité",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Tijdschrift voor Filosofie",
@@ -436,7 +436,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": 27,
+    "id": 30,
     "titulo": "In Memorian Alphonse De Waelhens",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Tijdschrift voor Filosofie",
@@ -451,7 +451,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": 28,
+    "id": 31,
     "titulo": "Socialité et argent",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Tijdschrift voor Filosofie",
@@ -466,7 +466,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": 29,
+    "id": 32,
     "titulo": "Emmanuel Levinas. Textes relatifs à la soutenance de thèse du 6 juin 1961",
     "autor": "LEVINAS, Emmanuel",
     "parte_de": "Levinas : au-delà du visible",
@@ -481,7 +481,7 @@
     "acesso": "OpenEditionJ"
   },
   {
-    "id": 30,
+    "id": 33,
     "titulo": "Violence et Métaphysique: Essai sur la pensée d'Emmanuel Levinas",
     "autor": "DERRIDA, Jacques",
     "parte_de": "Revue de Métaphysique et de Morale",
@@ -496,7 +496,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": 31,
+    "id": 34,
     "titulo": "Violence et Métaphysique: Essai sur la pensée d'Emmanuel Levinas (Deuxième partie)",
     "autor": "DERRIDA, Jacques",
     "parte_de": "Revue de Métaphysique et de Morale",
@@ -511,7 +511,7 @@
     "acesso": "Jstor"
   },
   {
-    "id": 32,
+    "id": 35,
     "titulo": "In Memoriam Emmanuel Lévinas",
     "autor": "RICOEUR, Paul",
     "parte_de": "",
@@ -526,7 +526,7 @@
     "acesso": "Persee"
   },
   {
-    "id": 33,
+    "id": 36,
     "titulo": "Lévinas e Derrida \"Um contacto no coração de um quiasma\"",
     "autor": "BERNARDO, Fernanda",
     "parte_de": "",
