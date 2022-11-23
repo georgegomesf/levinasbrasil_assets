@@ -31,7 +31,7 @@
       "autor": "LEVINAS, Emmanuel",
       "titulo": "De l'évasion",
       "subtitulo": "",
-      "editora": "Le Livre de Poche",
+      "editora": "Biblio Essais - Le Livre de Poche",
       "primeira_pub": 1935,
       "ano_edicao": 1998,
       "paginas": 157,
@@ -146,8 +146,21 @@
     {
       "id": 12,
       "autor": "LEVINAS, Emmanuel",
+      "titulo": "Noms Propres",
+      "subtitulo": "Agnon, Buber, Celan, Delhomme, Derrida, Jabès, Kierkegaard, Lacroix, Laporte, Picard, Proust, Van Breda, Wahl",
+      "editora": "Biblio Essais - Le Livre de Poche",
+      "primeira_pub": 1976,
+      "ano_edicao": 1987,
+      "paginas": 158,
+      "capa": "https://arquivo.levinasbrasil.com.br/livros/levinas_noms_propres.jpg",
+      "idioma": "fra",
+      "descricao": "Dans ce volume, publié pour la première fois en 1976, Levinas poursuit la méditation élaborée dans ses grands ouvrages, avec la même conviction, mais avec plus de doigté, de fraternité, puisqu’il ne s’agit plus ici d’expliquer sa philosophie mais de comprendre, de penser celle des autres : Agnon, Buber, Celan, Derrida, Jabès, Kierkegaard ou encore Proust. Et c’est en leur prêtant ses propres problèmes, et ses propres exigences – ce qui est le signe de l’exacte compréhension – qu’il parle de ceux qu’il préfère. "
+    },
+    {
+      "id": 13,
+      "autor": "LEVINAS, Emmanuel",
       "titulo": "Do sagrado ao santo",
-      "subtitulo": "",
+      "subtitulo": "Cinco novas interpretações talmúdicas",
       "editora": "Civilização Brasileira",
       "primeira_pub": 1977,
       "ano_edicao": 2001,
@@ -157,7 +170,7 @@
       "descricao": "Do Sacrado Ao Santo - Cinco Interpretações Talmúdicas, originalmente publicado em 1977, é um dos mais importantes trabalhos do filósofo francês Emmanuel Levinas, considerado por muitos sua obra definitiva. Composto por cinco lições, reunidas em conferências organizadas pela seção francesa do Congresso Judeu Mundial, entre os anos 1969 e 1975, o livro apresenta Levinas no auge de sua criatividade. A síntese perfeita de um escritor marcado pela fenomenologia husserliana e que baseia sua reflexão na relação com o Outro, o respeito à sua identidade e à sua alteridade. Levinas fez parte de uma renovação do pensamento judaico depois do Holocausto e usa, em Do Sacrado Ao Santo - Cinco Interpretações Talmúdicas, o Talmude como alegoria para a interpretação de diversos problemas da vida moderna. O Talmude é uma vasta compilação de comentários sobre as leis judaicas, onde se registram os ensinamentos das grandes escolas rabínicas dos primeiros séculos de nossa era. Divide-se em duas partes: Mishna, codificação da lei oral desenvolvida nos ensinamentos tradicionais dos rabinos; e Guemara, comentário da Mishna escrito em aramaico. O que Levinas faz é interrogar esses textos da sabedoria judaica à luz dos problemas modernos, sempre contrapondo Mishna e Guemara."
     },
     {
-      "id": 13,
+      "id": 14,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Ética e Infinito",
       "subtitulo": "Diálogo com Philip Nemo",
@@ -170,7 +183,7 @@
       "descricao": "Emmanuel Levinas examina com simplicidade e lucidez os principais temas da sua filosofia, sobretudo o laço indestrutível entre ética e infinito, na oposição ao neutro, ao mero ser."
     },
     {
-      "id": 14,
+      "id": 15,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Transcendência e inteligibilidade",
       "subtitulo": "",
@@ -183,7 +196,7 @@
       "descricao": ""
     },
     {
-      "id": 15,
+      "id": 16,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "De Deus que vem à ideia",
       "subtitulo": "",
@@ -196,10 +209,10 @@
       "descricao": "Um texto profundamente original, que situa-se entre as três grandes obras do grande pensador do século XX, Lévinas. O autor lança-se à procura de caminhos e horizontes novos na questão que trata de Deus. Como filósofo obriga a filosofia, enquanto filosofia, a escutar o homem e, no enigma humano, a Deus sem a priori."
     },
     {
-      "id": 16,
+      "id": 17,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Entre nós",
-      "subtitulo": "ensaios sobre alteridade",
+      "subtitulo": "Ensaios sobre alteridade",
       "editora": "Vozes",
       "primeira_pub": 1991,
       "ano_edicao": 2010,
@@ -209,7 +222,7 @@
       "descricao": "Trata-se de um livro básico para entender Lévinas. Apresenta o percurso filosófico do autor no período 1950-90. A questão central gira em torno da alteridade - o pensar no outro. De um lado há a fragilidade do homem diante do próprio homem, mas ao mesmo tempo tem-se a grandeza da socialidade imanente à própria subjetividade humana. A obra é guiada pela nudez e santidade do rosto do outro."
     },
     {
-      "id": 17,
+      "id": 18,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Deus, a morte e o tempo",
       "subtitulo": "",
@@ -222,7 +235,7 @@
       "descricao": "Esta obra, Deus, a Morte e o Tempo, reúne os dois últimos cursos professados por Levinas na Sorbonne durante o ano académico de 1975-76. Razão pela qual ela constitui uma exigente e excelente introdução ao pensamento deste filósofo, cuja dificuldade – uma dificuldade que não é alheia à própria dificuldade de pensar e que advém da vulnerabilidade, da imensa vulnerabilidade deste pensamento – , adquire neste formato de cursos uma radiosa luminosidade."
     },
     {
-      "id": 18,
+      "id": 19,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Novas Interpretações Talmúdicas",
       "subtitulo": "",
@@ -235,7 +248,7 @@
       "descricao": "Novas Interpretações Talmúdicas fecha o ciclo iniciado pelo filósofo francês Emmanuel Levinas com Do sagrado ao santo - Cinco interpretações Talmúdicas - considerado por muitos sua obra definitiva. O livro baseia-se na tradução das últimas páginas do tratado talmúdico de Makot, que trata das sanções judiciárias às transgressões dos mandamentos e às proibições. Levinas evita o discurso apologético e extrai dos textos que traduzem a essência do judaísmo questões inquietantes para o homem moderno. Levinas fez parte de uma renovação do pensamento judaico após o Holocausto e usa, em Novas Interpretações Talmúdicas, o Talmude como alegoria para a interpretação de diversos problemas da vida moderna. O Talmude é uma vasta compilação de comentários sobre as leis judaicas, onde se registram os ensinamentos das grandes escolas rabínicas dos primeiros séculos de nossa era. Divide-se em duas partes: Mishna, codificação da lei oral desenvolvida nos ensinamentos tradicionais dos rabinos; e Guemara, comentário da Mishna escrito em aramaico. O que Levinas faz é interrogar esses textos da sabedoria judaica à luz dos problemas modernos, contrapondo as duas partes do Talmude. Escrito a partir de palestras ministradas por Levinas entre 1974 e 1989, o livro traz como primeira das leituras A vontade do céu e do poder, que trata da relação mestre-aluno."
     },
     {
-      "id": 19,
+      "id": 20,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Altérité et transcendance",
       "subtitulo": "",
@@ -248,7 +261,7 @@
       "descricao": "Dans Altérité et transcendance - le dernier ouvrage de philosophie publié de son vivant - , Emmanuel Levinas définit sa problématique en confrontant des écrits de sa dernière période avec des pages des années 1960-1970, arrachées au silence. Ces textes nous offrent de nouvelles et percutantes analyses sur la proximité et la paix, sur l'interdit de la représentation, sur les droits de l'autre homme, et dévelopent une saisissante réflexion sur la mort. On y retrouve, également, le thème de la « métaphysique du visage » qui, nul ne l'ignore désormais, est au coeur de son paysage conceptuel. Son texte liminaire, « Philosophie et transcendance », rapelle avec force, dans un monde où sévit si souvent le fanatisme religieux, que la voie par excellence de la transcendance est l'éthique. Dans l'étude suivante sur « Totalité et totalisation », Levinas se demande « si la notion de l'être ne doit pas être repensée en fonction de l'idée de totalité ». A la lumière de la biographie de l'auteur, qui fut tributaire des vicissitudes d'un siècle inondé de barbarie, cette ultime parole philosophique est d'une actualité prégnante. On célèbre en 2006 le centenaire de la naissance d'Emmanuel Levinas, dont l'oeuvre compte désormais parmi les plus emblématiques dans l'histoire de la philosophie du xxe siècle."
     },
     {
-      "id": 20,
+      "id": 21,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Oeuvres complètes - Tome 1",
       "subtitulo": "Carnets de Captivité",
@@ -261,7 +274,7 @@
       "descricao": "« Levinas aparaît aujourd'hui, plus que Sartre et Merleau-Ponty, antérieurement à Ricœur, Henry et Derrida, comme le premier introducteur, héritier et continuateur de Husserl et Heidegger, le philosophe français le plus marquant du XXème siècle après Bergson. Ses deux ouvrages centraux, Totalité et Infini (1961) et Autrement qu'être ou au-delà de l'essence (1974), comptent parmi les classiques du siècle, et ses plus courts essais, Le temps et l'autre et De l'existence à l'existant (1947) restent des ouvertures géniales vers une pensée radicalement neuve de la subjectivité, d'autrui, de l'éthique et de la trace de Dieu. La philosophie actuelle en dépend radicalement. Mais cette oeuvre, multiforme (philosophie, histoire de la philosophie, littérature, politique, études juives, etc) et vaste, reste encore dispersée chez plusieurs éditeurs, français et étranger. Il aparaît d'autant plus urgent de la réunir en un seul ensemble qu'il faut aussi tenir compte aujourd'hui d'autres documents : les articles et conférences éparpillés au fil des revues, mais aussi les inédits conservés dans ses propres archives. Le projet comptera au minimum cinq volumes : inédits 1 & 2, Philosophie 1 & et 2, et enfin Critique littéraire-Leçons talmudiques-Entretiens. Aujourd'hui l’œuvre complète s'ouvre donc par un premier volume d'inédits, Carnets de captivité, Ecrits sur la captivité et Notes philosophiques diverses, réunis, édités et annotés par R. Calin (avec la collaboration de C. Chalier). Ces textes couvrent la période des origines jusqu'aux années de l'immédiate après-guerre (avec quelques prolongements plus récents). On y retrouve, dans un contexte fortement marqué par Sartre, des esquisses de romans, la première aproche du thème capital de l'\"il y a\", les premières réflexions sur l'identité juive dans la crise de la guerre et de la captivité, etc. – bref ce qui marquera les essais philosophiques de l'immédiate après-guerre, mais aussi d'autres potentialités qui ne seront pas toutes également dévelopées. » Jean-Luc Marion"
     },
     {
-      "id": 21,
+      "id": 22,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Oeuvres complètes - Tome 2",
       "subtitulo": "Parole et Silence",
@@ -274,7 +287,7 @@
       "descricao": "On ne saurait trop souligner l'importance du Collège Philsophique et de Jean Wahl dans la pensée de Levinas. Durant sa captivité, il a conçu et en partie rédigé De l'existence à l'existant (1947), premier exposé d'envergure de sa philosophie, mais il est demeuré à l'écart de la vie intellectuelle. Il renoue avec les parties les plus vivantes de la philosophie grâce au Collège Philosophique fondé par Jean Wahl, qui entendait précisément témoigner des bouleversements que l'histoire récente avait provoqués dans l'ordre de la pensée. Levinas y fut un orateur très assidu : il y prononcera, entre 1947 et 1964, près de vingt conférences, accompagnant ainsi toute l'aventure du Collège lui-même. Certaines de ces conférences furent publiées, et, parmi elles, la plus célèbre, qui fut aussi la première, Le Temps et l'Autre. Mais, sur le moment, d'autres ne le furent pas, bien que Levinas les ait en grande partie conservées. Au nombre de neuf, elles composent aujourd'hui ce volume 2 des Œuvres inédites de Levinas. Ces conférences constituent un témoignage indispensable pour reconstituer le chemin qui conduisit Levinas à élaborer Totalité et Infini (1961)."
     },
     {
-      "id": 22,
+      "id": 23,
       "autor": "LEVINAS, Emmanuel",
       "titulo": "Oeuvres complètes - Tome 3",
       "subtitulo": "Eros, Litérature et Philosophie",
@@ -287,7 +300,7 @@
       "descricao": "Si l’on connaît, à travers ses écrits sur Proust, Blanchot, Celan, l’intérêt qu’Emmanuel Levinas portait à la littérature, on ne soupçonnait peut-être pas, chez lui, l’existence d’une telle \"pratique littéraire\". Or, c’est ce que mettent en évidence les ébauches de roman (Eros ou Triple opulence et La Dame de chez Wepler), les notes et les poèmes qui composent ce nouveau volume d’inédits magnifiquement préfacés par Jean-Luc Nancy Ainsi, bien que Levinas ne soit jamais devenu à proprement parler écrivain, la passion littéraire a toujours été intimement mêlée à son projet philosophique. Levinas a vu dans la littérature le lieu peut-être le plus propre à la présentation de l’intrigue de l’autre et du raport, de l’aproche et du contact. Ecrits dès le début des années 1920, ces inédits nous font accéder à la genèse de l’œuvre du grand philosophe. Ainsi de ces émouvants poèmes de jeunesse, rédigés en russe, en yiddish et en hébreu, alors que Levinas n’a qu’une quinzaine d’années. Ou, plus tard, ses deux esquisses de roman, qui témoignent sur le mode fictionnel de son expérience de la guerre. Levinas n’a pas été plus loin dans ses tentatives littéraires, mais le mouvement qui les portait n’a pas pour autant été effacé."
     },
     {
-      "id": 23,
+      "id": 24,
       "autor": "DERRIDA, Jacques",
       "titulo": "Adeus a Emmanuel Lévinas Capa comum",
       "subtitulo": "",
@@ -300,7 +313,7 @@
       "descricao": "Emoção e razão tornam-se uma única voz, quando um dos mais ilustres pensadores da filosofia ocidental rende sua homenagem a outro de mesma envergadura e importância, após seu falecimento. Adeus a Emmanuel Lévinas é a junção de dois momentos, posteriores ao falecimento do grande pensador. O primeiro deles, em 1995, é o discurso do 'Adeus' do discípulo, do interlocutor e do admirador pela morte recente de seu mestre. O ensaio mais extenso, 'A Palavra Acolhimento', foi realizado no ano seguinte, por ocasião de uma homenagem a Lévinas no encontro 'Visage et Sinaï', abordando os conceitos das palavras 'acolhimento' e 'hospitalidade' como pontos fundamentais a serem destacados de sua obra. É a despedida de Jacques Derrida - um dos nomes mais representativos da contemporaneidade filosófica - de um de seus principais mentores intelectuais e, ao mesmo tempo, uma avaliação da importância de seu legado. A publicação, pela editora Perspectiva na coleção Debates, desta pequena obra em que emoção e razão se conjugam numa expressão sensível, poucas vezes alcançada nas relações pessoais e intelectuais entre filósofos contemporâneos, torna possível o contato dos leitores com as afinidades e as especificidades do pensamento destes dois grandes expoentes da filosofia em nosso tempo."
     },
     {
-      "id": 24,
+      "id": 25,
       "autor": "RICOEUR, Paul",
       "titulo": "Outramente",
       "subtitulo": "Leitura do livro Autrement qu'être ou au-delà de l'essence de Emmanuel Lévinas",
@@ -313,7 +326,7 @@
       "descricao": "As tensões entre o Mesmo e o Outro, o Dito e o Dizer, a Ética e a Ontologia são os grandes temas que perpassam este importante trabalho e conduzem o leitor a uma aventura na complexidade dos fundamentos do real, da qual, com certeza, retornará mais rico e mais bem preparado para enfrentar as imensas exigências de responsabilidade que o mundo e o futuro propõem a cada um de nós."
     },
     {
-      "id": 25,
+      "id": 26,
       "autor": "SEBBAH, François-David",
       "titulo": "Levinas",
       "subtitulo": "",
@@ -326,7 +339,7 @@
       "descricao": "Emmanuel Lévinas (1906-1995) impõe-se, atualmente, como um dos maiores filósofos europeus. Durante muito tempo, seu pensamento - cuja ambição de fazer repercutir, no cerne do logos, a sabedoria dos doutores do Talmude ou, melhor ainda, de reivindicar um corte radical em relação à filosofia ocidental elaborada até então, sem nada abdicar das rigorosas exigências do discurso filosófico - permaneceu pouco divulgado."
     },
     {
-      "id": 26,
+      "id": 27,
       "autor": "SUSIN, Luis Carlos",
       "titulo": "O Homem Messiânico",
       "subtitulo": "Uma introdução ao pensamento de Emmanuel Levinas",
@@ -339,7 +352,7 @@
       "descricao": "O homem carrega em si todas as questões, mas, carrega ele todas as respostas? Certamente não, se o homem está solitário. Aliás, no homem solitário, a própria questão fica truncada: o homem seria então um absurdo, voltado ao absurdo. Esta é uma das notas firmes de Emmanuel Levinas, o judeu peregrino nascido na Lituânia, formado na escola fenomenológica, discípulo de Husserl e de Heidegger, provado nos campos de concentração de Hitler, e despertado para suas raízes bíblicas raízes ao avesso, postas no firmamento infinito e pondo a peregrinar pelo mundo para além de todo horizonte."
     },
     {
-      "id": 27,
+      "id": 28,
       "autor": "COSTA, Márcio Luis",
       "titulo": "Levinas",
       "subtitulo": "Uma introdução",
