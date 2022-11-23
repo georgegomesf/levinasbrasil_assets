@@ -61,6 +61,21 @@
     "acesso": "Jstor"
   },
   {
+    "id": 5,
+    "titulo": "Phénoménologie",
+    "autor": "LEVINAS, Emmanuel",
+    "parte_de": "Revue Philosophique de la France et de l'Étranger",
+    "volume": 124,
+    "numero": "11/12",
+    "paginacao": "p. 414-420",
+    "editora": "Presses Universitaires de France",
+    "ano_publicacao": 1937,
+    "data_publicacao": "1937-11-01",
+    "idioma": "fra",
+    "url": "https://www.jstor.org/stable/41084371",
+    "acesso": "Jstor"
+  },
+  {
     "id": 6,
     "titulo": "L'œuvre d'Edmond Husserl",
     "autor": "LEVINAS, Emmanuel",
